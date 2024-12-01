@@ -373,8 +373,8 @@ tr {
   .note__username {
     display: block
   }
-
-  .form__action-buttons {
-    position: static;
-  }
+  
+    .form__action-buttons {
+      position: static;
+    }
 }

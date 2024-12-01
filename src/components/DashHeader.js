@@ -131,7 +131,7 @@ const DashHeader = () => {
 
             <header className="dash-header">
                 <div className={`dash-header__container ${dashClass}`}>
-                    <Link to="/dash">
+                    <Link to="/dash/notes">
                         <h1 className="dash-header__title">techNotes</h1>
                     </Link>
                     <nav className="dash-header__nav">
